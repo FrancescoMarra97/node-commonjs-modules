@@ -3,5 +3,5 @@ function getHobbies(hobbyOne, hobbyTwo, hobbyThree) {
         hobbies: [hobbyOne, hobbyTwo, hobbyThree]
     }
 
-    module.exports = getHobbies();
 }
+module.exports = getHobbies;

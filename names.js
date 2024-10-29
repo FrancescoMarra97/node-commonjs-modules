@@ -7,4 +7,4 @@ function getName(firstName, lastName) {
     }
 }
 
-module.exports = getName();
+module.exports = getName;
