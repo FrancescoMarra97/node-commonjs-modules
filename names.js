@@ -1,8 +1,10 @@
 //funzione
 
-function getName(firstName,lastName) {
+function getName(firstName, lastName) {
     return {
         firstName,
         lastName
     }
 }
+
+module.exports = getName();
